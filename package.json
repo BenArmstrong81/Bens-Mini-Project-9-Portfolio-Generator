@@ -1,0 +1,22 @@
+{
+  "name": "bens-mini-project-9-portfolio-generator",
+  "version": "1.0.0",
+  "description": "In this activity, you will build a command-line tool that generates an HTML portfolio page from user input.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenArmstrong81/Bens-Mini-Project-9-Portfolio-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenArmstrong81/Bens-Mini-Project-9-Portfolio-Generator/issues"
+  },
+  "homepage": "https://github.com/BenArmstrong81/Bens-Mini-Project-9-Portfolio-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
